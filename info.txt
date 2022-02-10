@@ -1,2 +1,29 @@
 Ümmügülsüm Sümer - 22103772 - https://github.com/ummigs
 https://www.playstation.com/tr-tr/games/marvels-spider-man-miles-morales/
+commit 51f5b32f30ef22850d0ed1e19119ab854abf0caf (HEAD -> main, origin/main, origin/HEAD)
+Merge: 79799c4 d728a7b
+Author: Ummu Sumer <ummugulsum.sumer@bilkent.edu.tr>
+Date:   Wed Feb 9 11:13:15 2022 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 79799c41ab0ed8fed4670ac16f6a1873d97ef442
+Merge: 6925e67 e82445f
+Author: Ummu Sumer <91377796+ummigs@users.noreply.github.com>
+Date:   Wed Feb 9 11:10:47 2022 +0300
+
+    Merge pull request #1 from ummigs/new_information
+
+    video game added
+
+commit d728a7b6299aa62971b8438b7552de992b63b3df
+Merge: 6925e67 e82445f
+Author: Ummu Sumer <91377796+ummigs@users.noreply.github.com>
+Date:   Wed Feb 9 11:10:47 2022 +0300
+
+    Merge pull request #1 from ummigs/new_information
+
+    video game added
+
+commit e82445f8a47e76fea50471523a718f872aca1aca (origin/new_information, new_information)
+:
